@@ -1,6 +1,4 @@
-// contralodor cliente
-
-
+// contralodor cliente.
 Ext.define('AJugarFutbol.controller.administracionx1.Clientes', {
     extend: 'Ext.app.Controller',
     
