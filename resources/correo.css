@@ -1,0 +1,98 @@
+body {
+	background-color: #154305;
+	margin: 0px;
+}
+#wrapper {
+	width: 400px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	background-color: #FFF;
+	height: 87px;
+	width: 190px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+	float:left;
+	padding-top: 3px;
+}
+#header img {
+	display: block;
+	margin-right: auto;
+	margin-left: 10px;
+}
+#usuario {
+	float: left;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	height: 87px;
+	width: 210px;
+}
+#content {
+	clear: both;
+}
+#asunto {
+	background-color: #c80000;
+	float: left;
+	border-radius:10px;
+	border: 1px solid #FFF;
+	margin-top: 30px;
+	max-width:300px;
+}
+#asunto h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	color: #FFF;
+	margin-top: 10px;
+	margin-right: 13px;
+	margin-bottom: 10px;
+	margin-left: 13px;
+}
+
+#links {
+	clear: both;
+	margin-top: 30px;
+	float: left;
+	border-radius:10px;
+	background-color:#FFF;
+	
+}
+#contenido {
+	clear: both;
+	float: right;
+	margin-top: 25px;
+	background-color: #003442;
+	border-radius:10px;
+	border: 1px solid #FFF;
+	max-width:300px;
+}
+#contenido p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	text-align: justify;
+	margin-top: 10px;
+	margin-right: 13px;
+	margin-bottom: 10px;
+	margin-left: 13px;
+}
+#links #linkajf {
+	margin-right: 15px;
+}
+#footer {
+	clear: both;
+	background-color: #c80000;
+	float: left;
+	border-radius:10px;
+	border: 1px solid #FFF;
+	margin-top: 5px;
+	height:10px;
+	width:400px;
+}
+#wrapper #content #links a img {
+	margin: 5px;
+}

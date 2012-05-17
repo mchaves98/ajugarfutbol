@@ -1,0 +1,109 @@
+.error{background-image:url(imagenes/exclamation.png);}
+       .information{background-image:url(imagenes/information.png) ! important;}
+       .x-fotousuario{background: #999999; border-color: #999999; border-style: solid; border-width: 5px; cursor:pointer;}
+       .x-bntMnuVer:hover{border-style: solid; border-width: 2px; color: #ffffff}
+       .x-bntMnuOver{background:url(imagenes/boton2.png)}
+       .x-bntMnuOut{background:url(imagenes/boton1.png)}
+       .x-botonReservacion:hover{border-width:6px;}
+       .x-imageExOver{cursor:pointer;}
+       .x-icon-grid{margin-left: 15px;}
+       .escudo-box  {
+                    width: 125px;
+                    padding: 2px;
+                    text-align: center;
+                    margin: 2px auto;
+                    background: #ffffff;
+                    border: 2px solid #ffffff;
+                    -webkit-border-radius: .5em;
+                    -moz-border-radius: .5em;
+                    -ms-border-radius: .5em;
+                    border-radius: .5em;
+                   }
+       .escudo-wrap{
+                    float: left;
+                    margin: 2px;
+                    margin-right: 0;
+                    padding: 2px;
+                }
+            
+       .escudo-box:hover {
+                         background: #ffffff;
+                         border-color: #999999;
+                         border: 2px solid;
+                        }
+       .escudo-box-selected {
+                         border: 0px solid red;
+                         background: red;
+                         -webkit-border-radius: .5em;
+                         -moz-border-radius: .5em;
+                         -ms-border-radius: .5em;
+                         border-radius: .5em;
+
+                        }
+       .jugador-wrap{
+                    float: left;
+                    margin: 4px;
+                    margin-right: 0;
+                    padding: 5px;
+                }
+       .jugador-box:hover {
+                         background: #ffffff;
+                         border-color: #999999;
+                         border: 0px solid;
+                        }
+       .jugador-box-selected {
+                         background: #ffffff;
+                         border: 0px solid;
+                        }
+       .x-boton-jugador {width: 50px; height: 20px; font-size:11px;}
+       .x-boton-jugador:hover {background: #afffff;cursor:pointer;}
+      
+       
+       .jugador-wrap-Disp{
+                    float: left;
+                    margin: 4px;
+                    margin-right: 0;
+                    padding: 5px;
+                }
+       .jugador-box-Disp:hover {
+                         background: #ffffff;
+                         border-color: #999999;
+                         border: 0px solid;
+                        }
+       .jugador-box-selected-Disp {
+                         background: #ffffff;
+                         border: 0px solid;
+                        }
+       .x-boton-jugador-Disp {width: 50px; height: 20px; font-size:11px;}
+       .x-boton-jugador-Disp:hover {background: #afffff;cursor:pointer;} 
+       
+       
+       .roll-wrap{
+                    margin: 4px;
+                    margin-right: 0;
+                    padding: 8px;
+                }
+       .roll-box:hover {
+                         background: #EEF6F5;
+                         border-color: #999999;
+                         border: 1px solid;
+                          }
+       
+       .x-boton-Roll {width: 50px; height: 20px; font-size:11px;}
+       .x-boton-Roll:hover {background: #A9E2F3;cursor:pointer;}
+	   
+	   .bloqueo-wrap{
+                    margin: 0px;
+                    margin-right: 0;
+                    padding: 2px;
+                }
+       .bloqueo-box:hover {
+                         background: #EEF6F5;
+                         border-color: #999999;
+                         border: 1px solid;
+                          }
+       
+       .x-boton-bloqueo {width: 60px; height: 20px; font-size:11px; margin-top:10px;}
+       .x-boton-bloqueo:hover {background: #A9E2F3;cursor:pointer;}
+      
+       
