@@ -1,0 +1,27 @@
+<?php
+/*
+*
+*  WebSite: AJugarFutbol.Com
+*  File: UsuarioDB.php
+*
+*  Autor: Manuel Chaves
+*  Fecha: 20/Dic/2011
+*  
+*  Variables de uso comun  
+*
+*/
+
+if($_SERVER['SERVER_NAME'] == 'www.ajugarfutbol.com') {
+		define('SERVIDOR','www.ajugarfutbol.com');
+		define('USUARIODB','pagoscrn_user');
+		define('PSW','prod01200');
+		define('DATABASE','pagoscrn_AJugarFutbol');
+
+       } else {
+		define('SERVIDOR','www.pagoscr.net');
+		define('USUARIODB','pagoscrn_prueba');
+		define('PSW','prueba');
+		define('DATABASE','pagoscrn_AJugarFutbolTest');
+	      }
+
+?>
